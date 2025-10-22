@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "tester01",
+    "valid_until": "2025-12-01"
+  },
+  {
+    "user_id": "tester02",
+    "valid_until": "2025-12-01"
+  },
+  {
+    "user_id": "tester03",
+    "valid_until": "2025-12-01"
+  }
+]
